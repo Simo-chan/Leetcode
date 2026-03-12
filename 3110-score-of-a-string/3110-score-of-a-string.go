@@ -18,3 +18,6 @@ func scoreOfString(s string) int {
 
     return result
 }
+
+//Time complexity is O(n) - we iterate through the string only once.
+//Space complexity is O(1) - we don't create any data scructure.
